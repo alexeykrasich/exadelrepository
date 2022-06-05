@@ -1,0 +1,17 @@
+Check syntax, ip, hostname, usr, pass
+
+Try to use IP instead of host-name
+
+Ping the server
+
+Look at the type of error
+
+If "Connection Timeout"
+
+Verify the firewall rules.
+Verify the port number allowed for ssh.
+
+If "Connection Refused"
+
+All the same.
+Verify that the service is running properly, restart, reinstall.
